@@ -1,3 +1,0 @@
-Frontend Webpage: http://a898bf2bb39324f1e881c07c67d6d2e0-397979928.us-east-1.elb.amazonaws.com/
-
-Backend API: http://a5a5bcfce743c4253a3361ce0fb35cd0-983329832.us-east-1.elb.amazonaws.com/movies
